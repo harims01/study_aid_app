@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytesseract
+pillow
+llama-cpp-python
+torch
+transformers
+diffusers
+accelerate
+requests

@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "C:/Movies/study_aid_app/venv/Lib/site-packages"
+    ],
+    "python.defaultInterpreterPath": "C:/Movies/study_aid_app/venv/Scripts/python.exe",
+    "python.analysis.autoImportCompletions": true
+}
